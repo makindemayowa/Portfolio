@@ -38,18 +38,18 @@ class Contact extends Component {
               <form action="https://formspree.io/mayowamakinde53@gmail.com" method="POST">
                 <div className="fields-grid">
                   <div className="styled-input">
-                    <input type="text" name="Full Name" placeholder="Name" required="" />
+                    <input type="text" name="Full Name" placeholder="Name" required />
                   </div>
                   <div className="styled-input">
-                    <input type="email" name="_replyto" placeholder="Email" required="" />
+                    <input type="email" name="_replyto" placeholder="Email" required />
                   </div>
                   <div className="styled-input">
-                    <input type="text" name="Subject" placeholder="Subject" required="" />
+                    <input type="text" name="Subject" placeholder="Subject" required />
                   </div>
                   <div className="clearfix"> </div>
                 </div>
                 <div className="styled-input textarea-grid">
-                  <textarea name="Message" placeholder="Message" required=""></textarea>
+                  <textarea name="Message" placeholder="Message" required></textarea>
                 </div>
                 <input type="submit" value="Send" />
               </form>
