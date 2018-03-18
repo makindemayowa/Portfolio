@@ -55,7 +55,7 @@ class Contact extends Component {
               </form>
             </div>
             <div className="col-md-6 map-w3-agileits">
-            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:Ei0zNDAgQm9ybm8gV2F5LCBBbGFnb21lamktWWFiYSwgTGFnb3MsIE5pZ2VyaWE&key=AIzaSyCaTjyoiH2RosbgZjUn4e-3RDDPdozGn_Q"></iframe>
+            <iframe src="https://maps.google.com/maps?q=340, Borno way, Alagomeji, lagos, Nigeria&amp;ie=UTF8&amp;&amp;output=embed"></iframe>
             </div>
             <div className="clearfix"> </div>
           </div>
