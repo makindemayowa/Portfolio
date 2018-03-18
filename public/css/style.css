@@ -494,7 +494,7 @@ h5.title-w3 span {
 
 .about-w3layouts,
 .awards-bg-agile,
-.gallery,
+/* .gallery, */
 .language-skills,
 .contact-right-wthree,
 .wthree-form {
@@ -1082,7 +1082,7 @@ h3.subheading-agileits-w3layouts {
 	margin-top: 0em!important;
 }
 
-.w3_agile_gallery_grid {
+.w3_agile_gallery_gri {
 	margin-top: 20px
 }
 
@@ -1092,8 +1092,7 @@ h3.subheading-agileits-w3layouts {
 
 .agile_github_link {
 	width: 10%;
-  margin: 0 auto;
-	margin-top: 65px;
+  margin: 65px 0 0 50%;
 	-webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
 	transition: width 2s;
 }
@@ -1369,7 +1368,7 @@ h3.subheading-agileits-w3layouts {
 @media(max-width:1280px) {
 	.about-w3layouts,
 	.awards-bg-agile,
-	.gallery,
+	/* .gallery, */
 	.language-skills,
 	.contact-right-wthree,
 	.wthree-form {
@@ -1519,7 +1518,7 @@ h3.subheading-agileits-w3layouts {
 		padding: 21em 20em 0 21em;
 	}
 	.about-w3layouts {
-		padding-bottom: 49em;
+		padding-bottom: 40em;
 	}
 	.person-info-agileits-w3layouts {
 		left: 3.5em;
@@ -1598,7 +1597,7 @@ h3.subheading-agileits-w3layouts {
 @media(max-width:768px) {
 	.about-w3layouts,
 	.awards-bg-agile,
-	.gallery,
+	/* .gallery, */
 	.language-skills,
 	.contact-right-wthree,
 	.wthree-form {
@@ -1612,7 +1611,7 @@ h3.subheading-agileits-w3layouts {
 		margin: 0em auto 1em;
 	}
 	.about-w3layouts {
-		padding-bottom: 48em;
+		padding-bottom: 43em;
 	}
 	.skills-w3layouts {
 		margin-top: 3em;
@@ -1703,7 +1702,7 @@ h3.subheading-agileits-w3layouts {
 		width: 80px;
 	}
 	.about-w3layouts {
-		padding-bottom: 47em;
+		padding-bottom: 40em;
 	}
 }
 
@@ -1780,7 +1779,7 @@ h3.subheading-agileits-w3layouts {
 		padding: 22em 14.5em 0 14.5em;
 	}
 	.about-w3layouts {
-		padding-bottom: 48.5em;
+		padding-bottom: 36em;
 	}
 }
 
@@ -1810,7 +1809,7 @@ h3.subheading-agileits-w3layouts {
 		margin-bottom: 1em!important;
 	}
 	.about-w3layouts {
-		padding-bottom: 54em;
+		padding-bottom: 40em;
 	}
 	.about-border-w3ls {
 		padding: 24.5em 12em 0 12em;
@@ -1879,7 +1878,7 @@ h3.subheading-agileits-w3layouts {
 		margin-top: 1em;
 	}
 	.about-w3layouts {
-		padding-bottom: 58.5em;
+		padding-bottom: 38.5em;
 	}
 	.about-border-w3ls {
 		padding: 27em 10.8em 0 10.8em;
@@ -1891,7 +1890,7 @@ h3.subheading-agileits-w3layouts {
 		margin: .5em 0 .5em;
 	}
 	.about-w3layouts {
-		padding-bottom: 62.5em;
+		padding-bottom: 45.5em;
 	}
 	.about-border-w3ls {
 		padding: 29em 10em 0 10em;
@@ -1927,7 +1926,7 @@ h3.subheading-agileits-w3layouts {
 		padding: 30em 9em 0 9em;
 	}
 	.about-w3layouts {
-		padding-bottom: 64.5em;
+		padding-bottom: 45.5em;
 	}
 }
 
@@ -1946,14 +1945,14 @@ h3.subheading-agileits-w3layouts {
 @media(max-width:320px) {
 	.about-w3layouts,
 	.awards-bg-agile,
-	.gallery,
+	/* .gallery, */
 	.language-skills,
 	.contact-right-wthree,
 	.wthree-form {
 		padding: 2.5em 0;
 	}
 	.about-w3layouts {
-		padding-bottom: 68.5em;
+		padding-bottom: 45.5em;
 	}
 	.banner-text-w3-agileits p {
 		letter-spacing: 3.5px;

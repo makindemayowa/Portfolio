@@ -46,16 +46,9 @@ class About extends Component {
               I work primarily with Node.js and flask on the back-end and ReactJs on the 
               front-end but picking up new frameworks isn’t a problem.
               </p>
-              {/* <ul>
-                <li><span>Name</span>: Steve Martin</li>
-                <li><span>Age</span>: 29 Years</li>
-                <li><span>Experience</span>: +8 Years</li>
-                <li><span>Email</span>: <a href="mailto:info@example.com">info@example.com</a></li>
-                <li><span>Phone</span>: (012) 345 6789</li>
-                <li><span>Website</span>: <a href="#">www.mywebsite.com</a></li>
-                <li><span>Address</span>: 27 Nether Street, Finchley, UK</li>
-                <li><a href="#" className="botton-w3ls">Download CV</a></li>
-              </ul> */}
+              <ul>
+                <li><a href="https://docs.google.com/document/d/1FljFkPLZpWz7EuBnd39JUYsAm_A2YrCsWsykXP8FM7c/edit" target="_blank" className="botton-w3ls">View CV</a></li>
+              </ul>
               <div className="clearfix"></div>
 
               <div className="pos-w3ls">

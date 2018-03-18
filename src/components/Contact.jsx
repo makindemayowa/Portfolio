@@ -35,13 +35,13 @@ class Contact extends Component {
           <div className="container">
             <div className="col-md-6 contact-form agile_inner_grids">
               <h5 className="title-w3">Say Hello</h5>
-              <form action="#" method="post">
+              <form action="https://formspree.io/mayowamakinde53@gmail.com" method="POST">
                 <div className="fields-grid">
                   <div className="styled-input">
                     <input type="text" name="Full Name" placeholder="Name" required="" />
                   </div>
                   <div className="styled-input">
-                    <input type="email" name="Email" placeholder="Email" required="" />
+                    <input type="email" name="_replyto" placeholder="Email" required="" />
                   </div>
                   <div className="styled-input">
                     <input type="text" name="Subject" placeholder="Subject" required="" />
@@ -55,7 +55,7 @@ class Contact extends Component {
               </form>
             </div>
             <div className="col-md-6 map-w3-agileits">
-            {/* <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:Ei0zNDAgQm9ybm8gV2F5LCBBbGFnb21lamktWWFiYSwgTGFnb3MsIE5pZ2VyaWE&key=AIzaSyCxFDn-G4gq0T6ssoY6KGeIvb0fO2oEOdU"></iframe> */}
+            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:Ei0zNDAgQm9ybm8gV2F5LCBBbGFnb21lamktWWFiYSwgTGFnb3MsIE5pZ2VyaWE&key=AIzaSyCaTjyoiH2RosbgZjUn4e-3RDDPdozGn_Q"></iframe>
             </div>
             <div className="clearfix"> </div>
           </div>

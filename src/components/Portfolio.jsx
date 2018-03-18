@@ -7,6 +7,9 @@ class Experience extends Component {
         <div class="container">
           <div class="title-wthree">
             <h5 class="title-w3">Portfolio</h5>
+            <br/>
+            <br/>
+            <br/>
             <div class="clearfix"></div>
           </div>
           <div class="">
@@ -34,7 +37,7 @@ class Experience extends Component {
               </div>
             </div>
 
-            <div class="row w3_agile_gallery_grid">
+            <div class="row w3_agile_gallery_gri">
               <div class="col-md-4 agile_gallery_grid">
                 <a title="NewsApp" target="_blank" href="http://newsapp.herokuapp.com/">
                   <div class="agile_gallery_grid1">
