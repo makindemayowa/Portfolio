@@ -7,9 +7,9 @@ class Experience extends Component {
         <div className="container">
           <div className="title-wthree">
             <h5 className="title-w3">Portfolio</h5>
-            <br/>
-            <br/>
-            <br/>
+            <br />
+            <br />
+            <br />
             <div className="clearfix"></div>
           </div>
           <div className="">
@@ -22,9 +22,9 @@ class Experience extends Component {
                 </a>
               </div>
               <div className="col-md-4 agile_gallery_grid">
-                <a title="Abuja Chamber of Commerce and Industry" target="_blank" href="http://acci.herokuapp.com/">
+                <a title="NewsApp" target="_blank" href="http://newsapp.herokuapp.com/">
                   <div className="agile_gallery_grid1">
-                    <img src="images/acci.png" alt=" " className="img-responsive" />
+                    <img src="images/newsapp.png" alt=" " className="img-responsive" />
                   </div>
                 </a>
               </div>
@@ -38,16 +38,9 @@ class Experience extends Component {
             </div>
 
             <div className="row w3_agile_gallery_gri">
-              <div className="col-md-4 agile_gallery_grid">
-                <a title="NewsApp" target="_blank" href="http://newsapp.herokuapp.com/">
-                  <div className="agile_gallery_grid1">
-                    <img src="images/newsapp.png" alt=" " className="img-responsive" />
-                  </div>
-                </a>
-              </div>
-              <div className="col-md-8 agile_gallery_grid">
+              <div className="col-md-12 agile_gallery_grid">
                 <a title="Github" target="_blank" href="https://github.com/andela-mmakinde">
-                  <div className="agile_gallery_grid1">
+                  <div className="agile_gallery_grid1 github">
                     <img src="images/github.svg" alt=" " className="agile_github_link" />
                   </div>
                 </a>

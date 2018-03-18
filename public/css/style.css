@@ -1083,16 +1083,20 @@ h3.subheading-agileits-w3layouts {
 }
 
 .w3_agile_gallery_gri {
-	margin-top: 20px
+	margin-top: 30px
 }
 
 .agile_gallery_grid1 {
 	position: relative;
 }
 
+.github {
+	text-align: center;
+}
+
 .agile_github_link {
 	width: 10%;
-  margin: 65px 0 20px 50%;
+	margin-top: 10px;
 	-webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
 	transition: width 2s;
 }

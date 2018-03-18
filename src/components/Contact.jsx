@@ -33,7 +33,7 @@ class Contact extends Component {
         </div>
         <div className="wthree-form">
           <div className="container">
-            <div className="col-md-6 contact-form agile_inner_grids">
+            <div className="col-md- contact-form agile_inner_grids">
               <h5 className="title-w3">Say Hello</h5>
               <form action="https://formspree.io/mayowamakinde53@gmail.com" method="POST">
                 <div className="fields-grid">
@@ -53,9 +53,6 @@ class Contact extends Component {
                 </div>
                 <input type="submit" value="Send" />
               </form>
-            </div>
-            <div className="col-md-6 map-w3-agileits">
-            <iframe src="https://maps.google.com/maps?q=340, Borno way, Alagomeji, lagos, Nigeria&amp;ie=UTF8&amp;&amp;output=embed"></iframe>
             </div>
             <div className="clearfix"> </div>
           </div>
