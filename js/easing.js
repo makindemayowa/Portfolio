@@ -1,3 +1,21 @@
+const textToSpeech = document.getElementById('text_2_voice')
+const speechToText = document.getElementById('voice_2_text')
+
+window.SpeechRecognition = webkitSpeechRecognition || window.SpeechRecognition
+recognition = new SpeechRecognition
+recognition.interimResults = true;
+
+textToSpeech.onclick = function () { startRecording() }
+// speechToText.onclick = function(){ startRecording() }
+
+function startRecording() {
+  final_transcript = ''
+  recognition.lang = `en-US`;
+  recognition.start()
+  recognition.onresult = (event) => {
+    console.log(event)
+  }
+}
 /*
  * jQuery EasIng v1.1.2 - http://gsgd.co.uk/sandbox/jquery.easIng.php
  *
