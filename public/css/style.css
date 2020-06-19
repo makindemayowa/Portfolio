@@ -1754,17 +1754,25 @@ h3.subheading-agileits-w3layouts {
 }
 
 @media (max-width: 568px) {
+  .w3-logo {
+    display: none;
+  }
   .copyright-wthree p {
     line-height: 28px;
   }
   .banner {
     min-height: 375px;
-    background: url(../images/eng1.jpg) no-repeat 0px 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url(../images/eng1.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
   }
 }
 
 @media (max-width: 480px) {
+  .w3-logo {
+    display: none;
+  }
   .services-grids:nth-child(1),
   .services-grids:nth-child(3) {
     margin-right: 0em;
@@ -1820,6 +1828,9 @@ h3.subheading-agileits-w3layouts {
 }
 
 @media (max-width: 440px) {
+  .w3-logo {
+    display: none;
+  }
   .banner-text-w3-agileits h2 {
     font-size: 2em;
     letter-spacing: 5px;
@@ -1829,7 +1840,8 @@ h3.subheading-agileits-w3layouts {
   }
   .banner {
     min-height: 343px;
-    background: url(../images/eng1.jpg) no-repeat 0px 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url(../images/eng1.jpg);
     background-size: cover;
   }
   .banner-text-w3-agileits {
@@ -1856,6 +1868,9 @@ h3.subheading-agileits-w3layouts {
 }
 
 @media (max-width: 414px) {
+  .w3-logo {
+    display: none;
+  }
   .pos-w3ls h4 {
     margin: 0.5em 0 0.5em;
   }
@@ -1889,6 +1904,9 @@ h3.subheading-agileits-w3layouts {
 }
 
 @media (max-width: 384px) {
+  .w3-logo {
+    display: none;
+  }
   .w3-logo a {
     font-size: 1em;
   }

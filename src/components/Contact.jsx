@@ -28,36 +28,51 @@ class Contact extends Component {
                     <a
                       href="https://www.facebook.com/mayowa.makinde.58"
                       target="_blank"
-                      class="fa fa-facebook"
-                    ></a>
+                      rel="noopener noreferrer"
+                      className="fa fa-facebook"
+                    >
+                      {""}
+                    </a>
                   </li>
                   <li>
                     <a
                       href="https://twitter.com/mankinde53"
                       target="_blank"
-                      class="fa fa-twitter"
-                    ></a>
+                      rel="noopener noreferrer"
+                      className="fa fa-twitter"
+                    >
+                      {""}
+                    </a>
                   </li>
                   <li>
                     <a
                       href="https://github.com/makindemayowa"
                       target="_blank"
-                      class="fa fa-github"
-                    ></a>
+                      rel="noopener noreferrer"
+                      className="fa fa-github"
+                    >
+                      {""}
+                    </a>
                   </li>
                   <li>
                     <a
                       href="https://plus.google.com/114551187537922418184"
                       target="_blank"
-                      class="fa fa-google-plus"
-                    ></a>
+                      rel="noopener noreferrer"
+                      className="fa fa-google-plus"
+                    >
+                      {""}
+                    </a>
                   </li>
                   <li>
                     <a
                       href="https://www.instagram.com/makindemayowa/"
                       target="_blank"
-                      class="fa fa-instagram"
-                    ></a>
+                      rel="noopener noreferrer"
+                      className="fa fa-instagram"
+                    >
+                      {""}
+                    </a>
                   </li>
                 </ul>
               </div>

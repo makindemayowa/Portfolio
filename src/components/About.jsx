@@ -15,7 +15,9 @@ class About extends Component {
           </div>
           <div className="col-md-4 about-left-agileits">
             <div className="services-grids social">
-              <a className="fa fa-delicious" aria-hidden="true"></a>
+              <a className="fa fa-delicious" aria-hidden="true">
+                {""}
+              </a>
               <p className="para-agileits-w3layouts">
                 CSS3, Javascript, ES6, React, Vue, Angular
               </p>
@@ -23,14 +25,18 @@ class About extends Component {
               <h6>Front-end</h6>
             </div>
             <div className="services-grids">
-              <a className="fa fa-globe" aria-hidden="true"></a>
+              <a className="fa fa-globe" aria-hidden="true">
+                {""}
+              </a>
               <p className="para-agileits-w3layouts">
                 NodeJS, Flask, Django, APIs, Devops, NoSQL, SQL
               </p>
               <h6>Back-end</h6>
             </div>
             <div className="services-grids">
-              <a className="fa fa-mobile" aria-hidden="true"></a>
+              <a className="fa fa-mobile" aria-hidden="true">
+                {""}
+              </a>
               <p className="para-agileits-w3layouts">
                 AWS, Google, Firebase, Heroku
               </p>
@@ -57,9 +63,10 @@ class About extends Component {
                   <a
                     href="https://docs.google.com/document/d/1xkiNCP3jwwCvaqnHsQPvaOVBQerIau6aPIuJoKN7mPI/edit?usp=sharing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className="botton-w3ls"
                   >
-                    View CV
+                    View resume
                   </a>
                 </li>
               </ul>

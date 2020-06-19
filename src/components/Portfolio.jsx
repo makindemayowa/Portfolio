@@ -18,6 +18,7 @@ class Experience extends Component {
                 <a
                   title="Fridge to table"
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://fridgetotable.com/"
                 >
                   <div className="agile_gallery_grid1">
@@ -33,6 +34,7 @@ class Experience extends Component {
                 <a
                   title="FX Barter"
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://fxbarter.com/"
                 >
                   <div className="agile_gallery_grid1">
@@ -48,6 +50,7 @@ class Experience extends Component {
                 <a
                   title="Meal Hero"
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://about.mealhero.com/"
                 >
                   <div className="agile_gallery_grid1">
@@ -66,6 +69,7 @@ class Experience extends Component {
                 <a
                   title="Github"
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://github.com/makindemayowa"
                 >
                   <div className="agile_gallery_grid1 github">
