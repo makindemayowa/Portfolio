@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Experience extends Component {
   render() {
@@ -15,23 +15,47 @@ class Experience extends Component {
           <div className="">
             <div className="row">
               <div className="col-md-4 agile_gallery_grid">
-                <a title="FX Barter" target="_blank" href="http://fxbarternew.herokuapp.com/">
+                <a
+                  title="Fridge to table"
+                  target="_blank"
+                  href="https://fridgetotable.com/"
+                >
                   <div className="agile_gallery_grid1">
-                    <img src="images/fxbarter.png" alt=" " className="img-responsive" />
+                    <img
+                      src="images/fridgetotable.png"
+                      alt=" "
+                      className="img-responsive"
+                    />
                   </div>
                 </a>
               </div>
               <div className="col-md-4 agile_gallery_grid">
-                <a title="NewsApp" target="_blank" href="http://newsapp.herokuapp.com/">
+                <a
+                  title="FX Barter"
+                  target="_blank"
+                  href="https://fxbarter.com/"
+                >
                   <div className="agile_gallery_grid1">
-                    <img src="images/newsapp.png" alt=" " className="img-responsive" />
+                    <img
+                      src="images/fxbarter.png"
+                      alt=" "
+                      className="img-responsive"
+                    />
                   </div>
                 </a>
               </div>
               <div className="col-md-4 agile_gallery_grid">
-                <a title="Doc-Garage" target="_blank" href="http://docgarage.herokuapp.com/">
+                <a
+                  title="Meal Hero"
+                  target="_blank"
+                  href="https://about.mealhero.com/"
+                >
                   <div className="agile_gallery_grid1">
-                    <img src="images/docgarage.png" alt=" " className="img-responsive" />
+                    <img
+                      src="images/try-mealhero.png"
+                      alt=" "
+                      className="img-responsive"
+                    />
                   </div>
                 </a>
               </div>
@@ -39,9 +63,17 @@ class Experience extends Component {
 
             <div className="row w3_agile_gallery_gri">
               <div className="col-md-12 agile_gallery_grid">
-                <a title="Github" target="_blank" href="https://github.com/andela-mmakinde">
+                <a
+                  title="Github"
+                  target="_blank"
+                  href="https://github.com/makindemayowa"
+                >
                   <div className="agile_gallery_grid1 github">
-                    <img src="images/github.svg" alt=" " className="agile_github_link" />
+                    <img
+                      src="images/github.svg"
+                      alt=" "
+                      className="agile_github_link"
+                    />
                   </div>
                 </a>
               </div>
